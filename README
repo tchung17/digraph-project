@@ -1,0 +1,13 @@
+/*
+Timothy Chung
+tchung17
+I made each function in my digraph.cpp correspond to a potential call by the user, to simplify things.
+Each function that explicitly corresponded to user input was declared as "void" and used cout to print output.
+Found a code tutorial online that let me directly print the contents of a vector (usually it>>second) that was very helpful. However, not sure how it works.
+Thought endl was end1...
+Not sure if ASCII/rASCII are implemented correctly
+Not sure if tiebreaking was implemented correctly
+Tried to standardize function parameters as (digraph vector, total text vector)
+May be a lot of unnecessary #include and using statements
+
+*/
